@@ -12,9 +12,9 @@
     "pack": "webpack"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.7.8",
     "babel-eslint": "^10.0.1",
-    "firebase-admin": "~6.0.0",
+    "firebase-admin": "~10.1.0",
     "firebase-functions": "^2.0.3",
     "lodash.flatten": "^4.4.0",
     "webpack-node-externals": "^1.7.2"
