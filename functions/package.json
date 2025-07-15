@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.1.0",
     "firebase-admin": "~6.0.0",
     "firebase-functions": "^2.0.3",
     "lodash.flatten": "^4.4.0",
